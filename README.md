@@ -117,7 +117,7 @@ Citeora 是一款运行在 HarmonyOS NEXT 上的原生学术文献管理应用�
 | PDF 渲染 | PDF.js |
 | 网络 | @kit.NetworkKit HTTP |
 | 文件系统 | @kit.CoreFileKit |
-| 设备类型 | 平板、2in1 |
+| 设备类型 | 平板、PC |
 
 ## HAP安装
 
